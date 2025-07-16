@@ -1,4 +1,3 @@
-Global-client-fingerprint: chrome
 port: 7890
 socks-port: 7891
 redir-port: 7892
@@ -98,7 +97,98 @@ tun:
   dns-hijack:
     - "any:53"
     - "tcp://any:53"
-
+proxies:
+    -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}
+  -   - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  -   - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}  # Placeholder برای لیست پروکسی‌ها
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     icon: https://www.svgrepo.com/show/412721/choose.svg
@@ -164,7 +254,6 @@ proxy-groups:
     proxies:
       - REJECT
     hidden: true
-
 rule-providers:
   apps:
     type: http
@@ -173,28 +262,25 @@ rule-providers:
     url: "https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/apps.yaml"
     path: ./ruleset/apps.yaml
     interval: 86400
-
 proxy-providers:
   proxy:
     type: http
-    # این دو خط توسط اسکریپت با مقادیر جدید جایگزین خواهند شد
-    url: "https://raw.githubusercontent.com/tahmaseb73/ClashFactory/main/providers/Comoros.txt"
+    url: https://raw.githubusercontent.com/tahmaseb73/ClashFactory/main/providers/Comoros.txt
     interval: 3600
-    path: "./providers/Comoros.txt"
+    path: ./providers/Comoros.txt
     health-check:
       enable: true
       interval: 3600
       url: "https://www.gstatic.com/generate_204"
-
 rules:
-  - PROCESS-NAME,Telegram.exe,تلگرام 💬 
-  - PROCESS-NAME,org.telegram.messenger,تلگرام 💬 
+  - PROCESS-NAME,Telegram.exe,تلگرام 💬
+  - PROCESS-NAME,org.telegram.messenger,تلگرام 💬
   - PROCESS-NAME,org.telegram.messenger.web,تلگرام 💬
   - DOMAIN-SUFFIX,ir,سایتای ایرانی 🇮🇷
   - GEOIP,ir,سایتای ایرانی 🇮🇷
   - IP-CIDR,10.10.34.0/24,نوع انتخاب پروکسی 🔀
   - RULE-SET,apps,سایتای ایرانی 🇮🇷
-  - MATCH,نوع انتخاب پروکسی 🔀 
+  - MATCH,نوع انتخاب پروکسی 🔀
 ntp:
   enable: true
   server: "time.apple.com"
