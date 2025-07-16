@@ -1,0 +1,2 @@
+  - {name: 🇩🇪 freeconfigsplus 🔒 VL-TCP- 🇩🇪 DE 115ms, server: it.panelmarzban.com, port: 3037, reality-opts: {public-key: 21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI}, client-fingerprint: firefox, type: vless, uuid: a0a3e34d-87e4-4ff3-b04a-875c85325d62, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp}
+  - {name: IR | 🟢 | ss | @configshubplus | 11, server: shop.snapptcp.nikastoring.ir, port: 100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ztt7Ok4KMyb33ZCB0ZM0Uw, tfo: false}

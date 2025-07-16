@@ -1,0 +1,1 @@
+  - {name: 🇳🇱 oxnet_ir 🔒 VL-TCP- 🇳🇱 NL down, server: 188.227.84.78, port: 8443, reality-opts: {public-key: M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU, short-id: 08d8a4e0}, client-fingerprint: chrome, type: vless, uuid: 6d05705a-54b9-41ca-94fb-d70bbcf861a5, tls: true, tfo: false, skip-cert-verify: false, servername: zula.ir, network: tcp}
